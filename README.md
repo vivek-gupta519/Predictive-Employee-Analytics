@@ -1,5 +1,4 @@
 # Predictive-Employee-Analytics
-# Predictive Attrition Analytics
 
 ## Introduction
 **Predictive Attrition Analytics** is a project designed to analyze and predict employee attrition using various data visualization techniques and machine learning models. The primary goal is to identify the factors that contribute to employee turnover and to provide insights that can help organizations improve retention strategies.
